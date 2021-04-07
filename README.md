@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi there, I am Varada Nair 👋</h1>
 
 - 🔭 I’m a BTECH Computer Science Student.
-- - 💬 Ask me about <strong> Angular, ReactJs, Python, Flask, C++, Java, Machine Learning and Natural Language Processing </strong>
+- 💬 Ask me about <strong> Angular, ReactJs, Python, Flask, C++, Java, Machine Learning and Natural Language Processing </strong>
 - 🌱 I’m currently learning <strong>Flutter</strong> and developing a Mobile Application using <strong>MongoDB and NodeJs</strong>.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/varada-nair/" target="_blank"> Varada Nair</a>
 
